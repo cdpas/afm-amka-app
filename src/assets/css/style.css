@@ -1,0 +1,35 @@
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2c3e50;
+}
+  
+#nav {
+    padding: 30px;
+}
+.textshadow {
+    text-shadow: 2px 1px 1px black;
+}
+.white {
+    color: white!important;
+}
+.bold {
+    font-weight: bold!important;
+}
+.black {
+    color: black!important;
+}
+a {
+    text-decoration: none;
+}
+.border {
+    border: 1px solid black;
+}
+.radius {
+    border-radius: 5px;
+}
+.boxshadow {
+    box-shadow: 1px 1px 1px black;
+}
